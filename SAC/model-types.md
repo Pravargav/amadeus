@@ -1,0 +1,4 @@
+-> Cashflow model(only master data)
+         - planning
+         - reports
+         - rates
