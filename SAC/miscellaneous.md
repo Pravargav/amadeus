@@ -7,3 +7,5 @@
 -> Cash Flow Reporting model import data from APH(amadues planning hub) - FFC(financial forecast)
 
 -> Cash Flow Reporting model also takes some data from planning model and account from bw system
+
+-> The planning model imoprt master data from bw and transactional data are entered by users who want to plan stories.
