@@ -3,3 +3,5 @@
 -> Transaction data directly posted to sac
 
 -> Master data is fetched from BW
+
+-> Cash Flow Rates model import data from APH(amadues planning hub) - FFC(financial forecast)
