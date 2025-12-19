@@ -4,4 +4,4 @@
 
 -> Master data is fetched from BW
 
--> Cash Flow Rates model import data from APH(amadues planning hub) - FFC(financial forecast)
+-> Cash Flow Reporting model import data from APH(amadues planning hub) - FFC(financial forecast)
