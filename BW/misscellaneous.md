@@ -1,6 +1,6 @@
--> DTP means data transfer process
+-> DTP data transfer process
 
--> KEDB means known error database
+-> KEDB known error database
 
 -> TRFN transformation
 
